@@ -75,12 +75,12 @@ body {
    =================== */
 
 .header-container {
-    border-bottom: 20px solid #51DBAF;
+    border-bottom: 20px solid #00868B;
 }
 
 .footer-container,
 .main aside {
-    border-top: 20px solid #51DBAF;
+    border-top: 20px solid #00868B;
 }
 
 .header-container,
@@ -112,7 +112,7 @@ nav a {
     font-weight: bold;
 
     color: white;
-    background: #51DBAF;
+    background: #00868B;
 }
 
 nav a:hover,
